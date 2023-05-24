@@ -55,6 +55,7 @@ export default class Form extends React.Component {
           <select value={library} onChange={this.handleChange}>
             <option value="React">React</option>
             <option value="Vue">Vue</option>
+            <option value="Angular">Angular</option>
           </select>
           <br />
           <br />
