@@ -1,9 +1,9 @@
-import Clock from "./component/clock";
+import Form from "./component/Form";
 
 function App() {
   return (
     <div>
-      <Clock />
+      <Form />
     </div>
   );
 }
